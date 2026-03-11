@@ -10,7 +10,7 @@
 
 ## Запуск
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/o-avdienko/fastapi_project.git
 cd FastAPI_project
 docker-compose up --build
 ```
