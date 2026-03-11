@@ -9,9 +9,10 @@
 - **Docker** — контейнеризация
 
 ## Запуск
+**Требования:** установленный [Docker Desktop](https://www.docker.com/products/docker-desktop)
 ```bash
 git clone https://github.com/o-avdienko/fastapi_project.git
-cd FastAPI_project
+cd fastapi_project
 docker-compose up --build
 ```
 
